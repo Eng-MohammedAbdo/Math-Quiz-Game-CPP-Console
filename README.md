@@ -38,7 +38,7 @@ Enter Operation Type Level [1] Add, [2] Sub, [3] Mul, [4] Div, [5] Mix ? 1
 Question [1/3]
 
 7
-4 = +
+4  +
 ______________________
 11
 Right Answer :
